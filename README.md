@@ -1,2 +1,2 @@
 # Movie-ratings-prediction
-Predicting movie ratings with LSTM
+Predicting movie ratings using LSTM
